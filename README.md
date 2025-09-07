@@ -27,7 +27,7 @@
 
 ```bash
 # Clone repo
-git clone https://github.com/DDharm007/GarudaGPT ChatBot.git
+git clone https://github.com/DDharm007/GarudaGPT-ChatBot.git
 
 # Install dependencies
 pip install -r requirements.txt
