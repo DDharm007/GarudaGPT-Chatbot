@@ -4,7 +4,7 @@
   
 # 🦅 GarudaGPT Chatbot  
 
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="400"/>
+<img src="https://media.tenor.com/gzQWfJOp7l8AAAAM/looking-around-eagle.gif" width="400"/>
 
 ### ⚡ Fast • 🤖 Smart • 🔥 Developer-Friendly  
 
@@ -27,7 +27,7 @@
 
 ```bash
 # Clone repo
-git clone https://github.com/your-username/GarudaGPT.git
+git clone https://github.com/DDharm007/GarudaGPT ChatBot.git
 
 # Install dependencies
 pip install -r requirements.txt
