@@ -33,4 +33,4 @@ git clone https://github.com/DDharm007/GarudaGPT-ChatBot.git
 pip install -r requirements.txt
 
 # Run
-python main.py
+python frontend.py
