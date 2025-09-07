@@ -9,7 +9,6 @@
 ### ⚡ Fast • 🤖 Smart • 🔥 Developer-Friendly  
 
 [![Made with Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)  
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-blue?style=for-the-badge)](#)
 
 </div>
