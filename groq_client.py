@@ -1,4 +1,4 @@
-You have to create the file groq_client.py to power it with your api in this format:-
+# REPLACE WITH YOUR API KEY
 import requests
 import os
 import json
